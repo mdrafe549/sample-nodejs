@@ -2,7 +2,7 @@
     "requiresCompatibilities": [
         "FARGATE"
     ],
-    "family": "sample-fargate",
+    "family": "fargate",
     "containerDefinitions": [
         {
             "name": "nodejs",
