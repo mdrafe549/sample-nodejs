@@ -1,14 +1,6 @@
 [
   {
-    "name": "sample-app",
-    "imageUri": "339095555060.dkr.ecr.ap-south-1.amazonaws.com/manoj99:latest",
-    "essential": true,
-     "portMappings": [
-          {
-            "hostPort":3000,
-            "containerPort":3000,
-            "protocol": "tcp"
-          }
-     ]
+    "name": "nodejs",
+    "imageUri": "339095555060.dkr.ecr.ap-south-1.amazonaws.com/manoj99:latest"
   }
 ]
